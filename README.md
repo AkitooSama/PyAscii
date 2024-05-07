@@ -2,7 +2,7 @@
 
 This project provides a collection of tools for converting media to ASCII art and a player for terminal-based experiences.
 
-[aascii-converted-example](banner.png)
+[ascii-converted-example](banner.png)
 
 ## Tools Included
 
